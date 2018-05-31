@@ -215,7 +215,8 @@ button {
         padding: 10px;
     }
     ul {
-        margin-right: 130px; 
+        text-align: center;
+        /* margin-right: 130px;  */
     }
     .port img {
         margin-left: 60px;
